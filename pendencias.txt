@@ -1,0 +1,27 @@
+1 opcao mostrar ou nao o rastro *
+
+2 gerenciar o volume do audio - opcao mute *
+
+3 mostrar tempos *
+
+4 mostrar robos selecionados em uma lista lateral - ok
+
+5 desenhar a princesa no ponto target -
+
+6 tempo minimo - mostrar contagem regressiva. se o tempo acabar o mario morre. uhauhauahuaahu *
+
+7 mostrar splash screen -
+
+8 listar apenas classes robots que extendam de AbstractThreadRobot
+
+9 robos plugaveis - OK
+	9. arquivo properties com props do robo (como robocode) 
+
+
+10 fases
+
+11 colaboração entre robos, compartilhar base de conhecimento.
+
+12 carregar o painel do labirinto no Robocode.
+
+13 mostrar moedas no caminho, e pegar as moedas quando passar no caminho
